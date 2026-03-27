@@ -6,7 +6,7 @@ I'm an undergraduate aerospace engineering student at the University of Padua. I
 - MATLAB
 - Adobe Lightroom
 ## 🎯Goals 
-My academic goal is to attend a Master programme  in Space Engineering at an ESA-affiliated university in Europe. Becaus of this, i'm drawing myself a path through coding languages, orbital mechanics and applied physics. 
+My academic goal is to attend a Master programme  in Space Engineering at an ESA-affiliated university in Europe. Because of this, i'm drawing myself a path through coding languages, orbital mechanics and applied physics. 
 ## 📸Hobbies
 - Football
 - Photography
